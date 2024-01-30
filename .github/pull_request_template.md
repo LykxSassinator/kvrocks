@@ -41,10 +41,10 @@ For more info, check [issues](https://github.com/apache/kvrocks/issues).
 
 Issue Number: Close #xxx
 
+What's Changed:
 <!--
 You could use "commit message" code block to add more description to the final commit message.
 -->
-What's Changed:
 
 ```commit-message
 
